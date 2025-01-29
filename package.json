@@ -28,7 +28,7 @@
         "@types/node": "^18.11.17",
         "@types/ws": "^8.5.3",
         "axios": "^1.0.0",
-        "chalk": "4.1.2",
+        "chalk": "5.4.1",
         "cheerio": "1.0.0-rc.12",
         "dotenv": "^16.0.3",
         "fastify": "^4.10.2",
